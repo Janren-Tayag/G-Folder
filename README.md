@@ -1,6 +1,6 @@
 Case Study (Static Website)
 
-Tayag, Janren T.
-Lester John, Clemente
-Alvarez, John Lester
+Tayag, Janren T., 
+Lester John, Clemente, 
+Alvarez, John Lester, 
 Datumaas, Vincent
