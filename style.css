@@ -1,1 +1,48 @@
+.h-text{
+    position: absolute;
+    top:30%;
+    left: 5%;
+    padding: 15px;
 
+}
+.h-text p{
+    color: #262626;
+    letter-spacing: 3px;
+    font-weight: bold;
+}
+.h-text h1{
+    font-size: 4em;
+    line-height: 1.5em;
+}
+.h-text h1 span{
+        color: brown;
+}
+.h-text h2{
+    font-size: 4em;
+    margin-bottom: 0.5em;
+}
+#order{
+    text-decoration: none;
+    color: white;
+    background: brown;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+#dis{
+    text-decoration: none;
+    color: white;
+    background: #262626;
+    padding: 10px 20px;
+    border-radius: 8px;
+}
+#pizza{
+    position: absolute;
+    bottom: 15%;
+    left: 5%;
+}
+#pizza img{
+    transition: 0.4s ease;
+}
+#pizza img:hover{
+    transform: translateY(-20px);
+}
